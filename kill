@@ -1,4 +1,6 @@
 killedpeople = 0
 kill()
 def kill():
-input = kill("press p to kill")
+print("ya killed "+killedpeople "+people")
+input = kill("press p to kill ")
+ if input = "p":
