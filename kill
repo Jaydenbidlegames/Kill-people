@@ -1,0 +1,4 @@
+killedpeople = 0
+kill()
+def kill():
+input = kill("press p to kill")
